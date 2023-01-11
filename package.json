@@ -2,7 +2,7 @@
   "bin": {
   "your-command-here": "./index.js"
 },
-  "name": "npm_resume",
+  "name": "@mbanrey_npm_resume",
   "version": "1.0.0",
   "description": "Npm project",
   "main": "index.js",
