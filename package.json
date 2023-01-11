@@ -1,6 +1,6 @@
 {
   "bin": {
-  "your-command-here": "./index.js"
+  "stinkypoo jam": "./index.js"
 },
   "name": "mbanrey_npm_resume",
   "version": "1.0.0",
